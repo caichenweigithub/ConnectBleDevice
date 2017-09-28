@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Connect BLE 4.0</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="nav_item_attachment">Bağlandığım Cihazlar</string>
+    <string name="nav_item_images">Geçmiş Sonuçlarım</string>
+    <string name="nav_item_location">İstatistikler</string>
+    <string name="nav_sub_menu">Hesaplamalar</string>
+    <string name="nav_sub_menu_item01">Kalp atış hızı</string>
+    <string name="nav_sub_menu_item02">Stabil değerler</string>
+    <string name="nav_sub_menu_item03">Genel sonuçlar</string>
+    <string name="drawer_header_text">MobilMed EKG</string>
+    <string name="second_activity_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consectetur diam id aliquam scelerisque. Donec ultrices lacus vel dignissim pharetra. Vivamus pharetra augue quis rhoncus placerat. Sed ultricies at risus non cursus. Nam rutrum leo nec placerat consectetur. Vestibulum feugiat eleifend diam, nec interdum augue tincidunt sit amet. Praesent feugiat est auctor lacus consectetur, vitae pellentesque dolor laoreet.</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="device">Durum:</string>
+    <string name="no_device">BLE Device Bağlı Değil</string>
+    <string name="scanning">BLE Cihazlar aranıyor...</string>
+    <string name="select_device">BLE Cihazını seçiniz</string>
+    <string name="ble_not_supported">Bluetooth düşük pilde desteklenmiyor</string>
+    <string name="scan">Tara</string>
+    <string name="cancel">İptal Et</string>
+    <string name="paired">Eşleştirilmiş</string>
+    <string name="popup_title">Çıkış</string>
+    <string name="popup_message">Uygulamayı kapatmak istediğinizden emin misiniz?</string>
+    <string name="popup_yes">EVET</string>
+    <string name="popup_no">HAYIR</string>
+
+</resources>

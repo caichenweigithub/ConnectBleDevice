@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\figo\Desktop\BLE\Design-Demo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\figo\Desktop\BLE\Design-Demo-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_7373781d85ff7e76040a23c381944ffa9548025c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\figo\Desktop\BLE\Design-Demo-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="C:\Users\figo\Desktop\BLE\Design-Demo-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.2.1_e37bc977c4b0bca0548ffa5a35dabecaeea550aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\figo\Desktop\BLE\Design-Demo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\figo\Desktop\BLE\Design-Demo-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_5d616dad7518596f4e1f108fd0dd180cb665e304.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\figo\Desktop\BLE\Design-Demo-master\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\figo\Desktop\BLE\Design-Demo-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.1_376266504ded368f3556bbd773015abb8a597d4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\figo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\figo\Desktop\BLE\Design-Demo-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_48714b76ddf084d6df8b95c3858c056c7d077d4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\figo\Desktop\BLE\Design-Demo-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="C:\Users\figo\Desktop\BLE\Design-Demo-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-22.2.1_f086d96a184c19fd13ecfac39c5b84594fa40ce3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\figo\Desktop\BLE\Design-Demo-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\figo\Desktop\BLE\Design-Demo-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_0540f8c3ea8bed031708898db6d8648c4eab8e7d.jar" />
+    </item>
+
+</items>
